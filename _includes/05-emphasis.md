@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*If you want to go fast,* __go alone.__
+_If you want to go far,_**go together**
+                        -----**_unknown_**
